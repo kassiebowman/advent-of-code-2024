@@ -37,3 +37,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Don't publish data inputs
+**/*control.txt
+**/*data.txt
