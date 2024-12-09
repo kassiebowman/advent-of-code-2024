@@ -39,5 +39,6 @@ bin/
 .DS_Store
 
 # Don't publish data inputs
-**/*control.txt
+**/*control*.txt
 **/*data.txt
+*.txt
